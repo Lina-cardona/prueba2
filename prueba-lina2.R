@@ -1,0 +1,5 @@
+print("estoy haciendo una prueba... Lina")
+print("por favor que funcione")
+print("por favor que funcione")
+print("por find")
+savehistory("~/R/prueba2/prueba-lina2.R")
